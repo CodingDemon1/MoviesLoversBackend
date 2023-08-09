@@ -44,6 +44,4 @@ Movies Lovers is a web application that allows users to search for movies, creat
 - Implementing user profile customization.
 - Adding password recovery functionality.
 
-## License
-
-This project is licensed under the XYZ License.
+## Made with ❤️ by a Proudly Indian
